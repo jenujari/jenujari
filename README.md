@@ -2,7 +2,7 @@
 
 -----------------------------------------
 
-- 🔭 I’m currently working on reactJS as Fontend Develpe at Tata Consultancy Pvt. Ltd. 
+- 🔭 I’m currently working on reactJS as Fontend Develpe at Everledger Systems Pvt Limited. 
 - 🌱 I’m currently learning Block Chain and smart contracts.
 - 👯 I’m looking to collaborate on ReactJs, NodeJs(express), AWS lambda, Blockchain etc ...
 
@@ -33,13 +33,6 @@
 
 <br />
 <br />
-
-<details>
-  <summary>:zap: GitHub Stats</summary>
-
-  <img align="left" alt="Jenish Jariwala's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=jenujari&show_icons=true&hide_border=true" />
-
-</details>
 
 [twitter]: https://twitter.com/jenishj54
 [linkedin]: https://www.linkedin.com/in/jenishjariwala5456/
