@@ -2,7 +2,7 @@
 
 -----------------------------------------
 
-- 🔭 I’m currently working on reactJS as Fontend Develpe at Everledger Systems Pvt Limited. 
+- 🔭 I’m currently working on Golang and reactJS as Fullstack Develper. 
 - 🌱 I’m currently learning Block Chain and smart contracts.
 - 👯 I’m looking to collaborate on ReactJs, NodeJs(express), AWS lambda, Blockchain etc ...
 
